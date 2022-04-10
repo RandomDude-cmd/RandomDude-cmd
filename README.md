@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashley Ridge B Par
+- 👋 Hi, I’m Ashley Par
 - 👀 I’m interested in things that are tech related 
 - 🌱 I’m currently learning data structures and the concept of coding 
 - 💞️ I’m looking to collaborate on with startups with big ideas
